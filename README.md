@@ -590,3 +590,8 @@ Which is simultaneously:
 - very fun
 
 Like most marine electronics projects.
+
+
+# More notes
+-The Icon must be a PNG 256x256
+-
