@@ -594,4 +594,27 @@ Like most marine electronics projects.
 
 # More notes
 -The Icon must be a PNG 256x256
--
+-Browser capabilities:
+
+Mozilla/5.0 (Linux; X86_64 GNU/Linux)
+AppleWebKit/601.1 (KHTML, like Gecko)
+Safari/601.1 WPE
+
+Garmin is basically running:
+
+WPE WebKit
+
+And confirmed support for:
+
+Feature	Status:
+fetch()	✅
+Promise	✅
+WebSocket	✅
+localStorage	✅
+sessionStorage	✅
+CSS Grid	✅
+Flexbox	✅
+Touch events	✅
+Canvas	✅
+SVG	✅
+ES6 let/const	✅
